@@ -1,0 +1,12 @@
+# your photos, outings and checklists
+outings/
+# caches and per-machine settings
+data/inat_*.json
+data/cameras.json
+data/ebird_taxonomy.csv
+# environment, model weights, logs
+.venv/
+__pycache__/
+*.pt
+*.log
+.DS_Store
